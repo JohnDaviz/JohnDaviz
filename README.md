@@ -1,4 +1,4 @@
-<h2> Hey, I'm jhonatan Hernandez ☕</h2>
+<h2> Hey, I'm Jhonatan Hernandez ☕</h2>
 <h3>Computer Systems Engineer ✌🏻🖥️</h3>
 
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/johnhdzsar)
@@ -24,6 +24,6 @@ const Jhonatan = {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnDaviz&layout=compact)](https://github.com/JohnDaviz/github-readme-stats)
 
-<p><em>If you don't love what you do, don't do it!</em></p>
+<em><b> "If you don't love what you do, don't do it!😎"</b> </em>
 
 ![](https://i.pinimg.com/originals/3a/84/b7/3a84b728d0fd69b5d9ba23623e932d85.jpg)
