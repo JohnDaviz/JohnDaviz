@@ -8,7 +8,7 @@
 
 ```javascript
 const Jhonatan = {
-  country: 'Mexico'
+  country: 'Mexico',
   pronouns: 'Her',
   code: ['Javascript','HTML', 'CSS'], 
   tools: ['Node', 'FireBase', 'Azure'],
