@@ -24,5 +24,6 @@ const Jhonatan = {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnDaviz&layout=compact)](https://github.com/JohnDaviz/github-readme-stats)
 
+<p><em>If you don't love what you do, don't do it!</em></p>
 
 ![](https://i.pinimg.com/originals/3a/84/b7/3a84b728d0fd69b5d9ba23623e932d85.jpg)
